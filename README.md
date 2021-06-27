@@ -1,5 +1,7 @@
 ### Hi there, I'm Karan 👋
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karan-Gandhi" alt="Karan-Gandhi" /> </p> -->
+
 Here's my Github Stats
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-gandhi&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karan-gandhi&show_icons=true&count_private=true) 
