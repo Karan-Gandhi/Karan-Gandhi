@@ -6,6 +6,8 @@ Here's my Github Stats
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-gandhi&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karan-gandhi&show_icons=true&count_private=true) 
 
+
+[![](https://visitcount.itsvg.in/api?id=karan-gandhi&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **Karan-Gandhi/Karan-Gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
